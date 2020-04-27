@@ -1,0 +1,148 @@
+#Cabecera{
+    background-color: rgb(48, 62, 79);
+    padding-bottom: 50px;
+}
+
+#titPrincipal{
+    color: rgb(255, 255, 255);
+    margin-top: -70px;
+    margin-left: 130px;
+}
+
+#imagenLogo1{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#menuInicio{
+    float: right;
+    background-color: rgb(177, 66, 51);
+    margin-top: -50px;
+    margin-right: 600px;
+    margin-left: -100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+#menuBing{
+    float: right;
+    background-color: rgb(177, 66, 51);
+    margin-right: -210px;
+    margin-top: -50px;
+    padding-left: 60px;
+    padding-right: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+#menuProyectos{
+    float: right;
+    background-color: rgb(177, 66, 51);
+    margin-right: -413px;
+    margin-top: -50px;
+    padding-left: 60px;
+    padding-right: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+#menuContacto{
+    float: right;
+    background-color: rgb(177, 66, 51);
+    margin-right: -610px;
+    margin-top: -50px;
+    padding-left: 60px;
+    padding-right: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+#contenedorTexto{
+    margin-right: 490px;
+}
+#texto1{
+    border-bottom: 1px solid black;
+}
+#contenedorFondo{
+    background-color: rgb(217, 130, 59);
+    margin-left: 1160px;
+    margin-top: -389px;
+    padding-top: 500px;
+}
+#contenedorFondo1{
+    background-color: rgb(197, 92, 36);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -480px;
+    padding-top: 200px;
+}
+#contenedorFondo2{
+    background-color: rgb(197, 92, 36);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    padding-top: 200px;
+}
+#pie{
+    background-color: rgb(48, 62, 79);
+    padding-bottom: 100px;
+}#menuInicioF{
+    float: left;
+    background-color: rgb(177, 66, 51);
+    margin-top: 15px;
+    margin-left: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+#menuBingF{
+    float: left;
+    background-color: rgb(177, 66, 51);
+    margin-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+#menuProyectosF{
+    float: left;
+    background-color: rgb(177, 66, 51);
+    margin-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+#menuContactoF{
+    float: left;
+    background-color: rgb(177, 66, 51);
+    margin-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+#fond1{
+    float: right;
+    background-color: rgb(217, 130, 59);
+    margin-top: 15px;
+    margin-right: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#fond2{
+    float: right;
+    background-color: rgb(217, 130, 59);
+    margin-top: 15px;
+    margin-left: -10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+h2.titParrafo{
+    color: rgb(0, 0, 0);
+}
+p.pieP{
+    color: rgb(255, 255, 255);
+}
